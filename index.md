@@ -16,3 +16,7 @@ var num = 10;
 console.log(num);
 ```
 
+- [ ] need to edit github profile
+- [ ] need to complete portfolio website
+- [ ] have to complete keepNotes project.
+
