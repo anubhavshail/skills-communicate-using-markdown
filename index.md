@@ -11,3 +11,8 @@ print("Hello World")
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+var num = 10;
+console.log(num);
+```
+
